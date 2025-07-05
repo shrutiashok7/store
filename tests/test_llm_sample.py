@@ -1,1 +1,1 @@
-# LLM-generated unit test
+# Sample LLM-generated test
