@@ -1,1 +1,0 @@
-# Sample LLM-generated test
